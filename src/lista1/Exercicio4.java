@@ -35,3 +35,24 @@ public class Exercicio4 {
 	}
 
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
